@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="icon" size="0.100000 0.100000" />
+    <ImageTarget name="RealDrums" size="0.100000 0.066052" />
+    <ImageTarget name="windows10" size="0.100000 0.074713" />
+    <ImageTarget name="gun" size="0.100000 0.077941" />
+    <ImageTarget name="spaceShip" size="0.100000 0.071786" />
+    <ImageTarget name="World" size="0.100000 0.103226" />
+    <ImageTarget name="batman" size="0.100000 0.064643" />
+    <ImageTarget name="drums" size="0.100000 0.100000" />
+    <ImageTarget name="superman" size="0.100000 0.063000" />
+  </Tracking>
+</QCARConfig>
