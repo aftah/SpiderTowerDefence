@@ -129,7 +129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   listGatePosition:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 3497427293440317057, guid: 6a4edbe0a4d14624d94fb68637c86adf, type: 3}
+  - {fileID: 8061973131636478949, guid: 0e7fc72af1c877a44987db42e77f4ff6, type: 3}
+  - {fileID: 9221101545805996639, guid: 3a96aa1c511460b4ab3fab5c3c982ec9, type: 3}
+  - {fileID: 3859506347724481130, guid: ae07dcc7e26a6b44394c3aa7d3ceac68, type: 3}

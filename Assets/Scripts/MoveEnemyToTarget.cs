@@ -12,16 +12,18 @@ public class MoveEnemyToTarget : MonoBehaviour
     private void Awake()
     {
         agent = GetComponent<NavMeshAgent>();
+       
     }
 
     private void Start()
     {
         gate = listGatePosition[Random.Range(0, listGatePosition.Count)];
+      
     }
     // Update is called once per frame
     void Update()
     {
-       
+        
         agent.destination = gate.transform.position;
     }
 }
